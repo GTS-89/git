@@ -1,2 +1,6 @@
 Dados: 
 
+Nome:
+Idade:
+Profissão:
+Escolaridade:
